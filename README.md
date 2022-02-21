@@ -2,9 +2,9 @@
 
 Join us to build the future of ecommerce payments
  
- https://ancorapay.medium.com/
- https://twitter.com/AncoraPay
- http://discord.gg/gHhKc8sNKZ
+## https://ancorapay.medium.com/
+## https://twitter.com/AncoraPay
+## http://discord.gg/gHhKc8sNKZ
 
 
 ## Built with
